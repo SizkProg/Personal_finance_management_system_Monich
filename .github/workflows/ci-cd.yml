@@ -1,4 +1,4 @@
-name: Finance Control
+name: Finance Management
 
 on:
   pull_request:
