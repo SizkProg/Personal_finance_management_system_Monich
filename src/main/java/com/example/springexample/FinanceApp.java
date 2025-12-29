@@ -30,7 +30,7 @@ public class FinanceApp {
     }
 
     public void run() {
-        System.out.println("Добро пожаловать в приложение для управления личными финансами!");
+        System.out.println("Добро пожаловать в приложение для управления личными финансами!!!");
         
         while (true) {
             if (!userService.isLoggedIn()) {
